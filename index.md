@@ -1,6 +1,9 @@
 Name: Chia-Lun Tsao
+
 Email: ctsao@ucsd.edu
+
 Section: B06
+
 Mentors: Alex Cloninger, Rayan Saab
 
 The most interesting topic in our group this quarter was the topic on statistical optimal transport. Throughout the first few weeks, we realized that there were close connections between optimal transport and statistics, and we could use this intersection in enhancing our understanding of how optimal transport works in data science in a more statistical point of view. This brought new perspectives for us to understand different types of data and we could relate that to our quarter 2 project.
